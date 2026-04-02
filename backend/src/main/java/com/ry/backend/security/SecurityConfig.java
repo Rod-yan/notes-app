@@ -1,6 +1,6 @@
-package com.ensolvers.backend.security;
+package com.ry.backend.security;
 
-import com.ensolvers.backend.service.CustomUserDetailsService;
+import com.ry.backend.service.CustomUserDetailsService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

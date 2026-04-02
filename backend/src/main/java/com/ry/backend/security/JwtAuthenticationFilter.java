@@ -1,6 +1,6 @@
-package com.ensolvers.backend.security;
+package com.ry.backend.security;
 
-import com.ensolvers.backend.service.CustomUserDetailsService;
+import com.ry.backend.service.CustomUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

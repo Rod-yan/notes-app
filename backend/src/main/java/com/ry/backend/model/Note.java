@@ -1,4 +1,4 @@
-package com.ensolvers.backend.model;
+package com.ry.backend.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

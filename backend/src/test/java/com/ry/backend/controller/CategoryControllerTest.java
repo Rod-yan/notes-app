@@ -1,11 +1,11 @@
-package com.ensolvers.backend.controller;
+package com.ry.backend.controller;
 
-import com.ensolvers.backend.dto.CategoryResponse;
-import com.ensolvers.backend.model.User;
-import com.ensolvers.backend.repository.UserRepository;
-import com.ensolvers.backend.service.CategoryService;
-import com.ensolvers.backend.service.CustomUserDetailsService;
-import com.ensolvers.backend.security.JwtUtils;
+import com.ry.backend.dto.CategoryResponse;
+import com.ry.backend.model.User;
+import com.ry.backend.repository.UserRepository;
+import com.ry.backend.service.CategoryService;
+import com.ry.backend.service.CustomUserDetailsService;
+import com.ry.backend.security.JwtUtils;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

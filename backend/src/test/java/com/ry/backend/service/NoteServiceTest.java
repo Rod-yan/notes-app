@@ -1,13 +1,13 @@
-package com.ensolvers.backend.service;
+package com.ry.backend.service;
 
-import com.ensolvers.backend.dto.NoteRequest;
-import com.ensolvers.backend.dto.NoteResponse;
-import com.ensolvers.backend.exception.ResourceNotFoundException;
-import com.ensolvers.backend.mapper.NoteMapper;
-import com.ensolvers.backend.model.Category;
-import com.ensolvers.backend.model.Note;
-import com.ensolvers.backend.model.User;
-import com.ensolvers.backend.repository.NoteRepository;
+import com.ry.backend.dto.NoteRequest;
+import com.ry.backend.dto.NoteResponse;
+import com.ry.backend.exception.ResourceNotFoundException;
+import com.ry.backend.mapper.NoteMapper;
+import com.ry.backend.model.Category;
+import com.ry.backend.model.Note;
+import com.ry.backend.model.User;
+import com.ry.backend.repository.NoteRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

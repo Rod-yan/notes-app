@@ -1,7 +1,7 @@
-package com.ensolvers.backend.service;
+package com.ry.backend.service;
 
-import com.ensolvers.backend.model.User;
-import com.ensolvers.backend.repository.UserRepository;
+import com.ry.backend.model.User;
+import com.ry.backend.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

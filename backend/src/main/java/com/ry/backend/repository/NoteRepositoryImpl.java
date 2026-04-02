@@ -1,8 +1,8 @@
-package com.ensolvers.backend.repository;
+package com.ry.backend.repository;
 
-import com.ensolvers.backend.model.Category;
-import com.ensolvers.backend.model.Note;
-import com.ensolvers.backend.model.User;
+import com.ry.backend.model.Category;
+import com.ry.backend.model.Note;
+import com.ry.backend.model.User;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import jakarta.persistence.criteria.CriteriaBuilder;

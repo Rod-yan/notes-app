@@ -1,4 +1,4 @@
-package com.ensolvers.backend.exception;
+package com.ry.backend.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

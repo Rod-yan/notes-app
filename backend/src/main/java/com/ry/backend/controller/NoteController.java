@@ -1,10 +1,10 @@
-package com.ensolvers.backend.controller;
+package com.ry.backend.controller;
 
-import com.ensolvers.backend.dto.NoteRequest;
-import com.ensolvers.backend.dto.NoteResponse;
-import com.ensolvers.backend.model.User;
-import com.ensolvers.backend.repository.UserRepository;
-import com.ensolvers.backend.service.NoteService;
+import com.ry.backend.dto.NoteRequest;
+import com.ry.backend.dto.NoteResponse;
+import com.ry.backend.model.User;
+import com.ry.backend.repository.UserRepository;
+import com.ry.backend.service.NoteService;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

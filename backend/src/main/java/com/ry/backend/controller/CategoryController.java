@@ -1,9 +1,9 @@
-package com.ensolvers.backend.controller;
+package com.ry.backend.controller;
 
-import com.ensolvers.backend.dto.CategoryResponse;
-import com.ensolvers.backend.model.User;
-import com.ensolvers.backend.repository.UserRepository;
-import com.ensolvers.backend.service.CategoryService;
+import com.ry.backend.dto.CategoryResponse;
+import com.ry.backend.model.User;
+import com.ry.backend.repository.UserRepository;
+import com.ry.backend.service.CategoryService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

@@ -1,4 +1,4 @@
-package com.ensolvers.backend;
+package com.ry.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

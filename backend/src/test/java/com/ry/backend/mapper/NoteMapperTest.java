@@ -1,10 +1,10 @@
-package com.ensolvers.backend.mapper;
+package com.ry.backend.mapper;
 
-import com.ensolvers.backend.dto.CategoryResponse;
-import com.ensolvers.backend.dto.NoteRequest;
-import com.ensolvers.backend.dto.NoteResponse;
-import com.ensolvers.backend.model.Category;
-import com.ensolvers.backend.model.Note;
+import com.ry.backend.dto.CategoryResponse;
+import com.ry.backend.dto.NoteRequest;
+import com.ry.backend.dto.NoteResponse;
+import com.ry.backend.model.Category;
+import com.ry.backend.model.Note;
 import org.junit.jupiter.api.Test;
 import org.mapstruct.factory.Mappers;
 

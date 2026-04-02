@@ -1,7 +1,7 @@
-package com.ensolvers.backend.repository;
+package com.ry.backend.repository;
 
-import com.ensolvers.backend.model.Note;
-import com.ensolvers.backend.model.User;
+import com.ry.backend.model.Note;
+import com.ry.backend.model.User;
 import java.util.List;
 
 public interface NoteRepositoryCustom {

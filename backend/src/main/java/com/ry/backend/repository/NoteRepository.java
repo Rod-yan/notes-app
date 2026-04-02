@@ -1,5 +1,5 @@
-package com.ensolvers.backend.repository;
-import com.ensolvers.backend.model.Note;
+package com.ry.backend.repository;
+import com.ry.backend.model.Note;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

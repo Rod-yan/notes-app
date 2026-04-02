@@ -1,8 +1,8 @@
-package com.ensolvers.backend.controller;
+package com.ry.backend.controller;
 
-import com.ensolvers.backend.dto.AuthRequest;
-import com.ensolvers.backend.dto.AuthResponse;
-import com.ensolvers.backend.security.JwtUtils;
+import com.ry.backend.dto.AuthRequest;
+import com.ry.backend.dto.AuthResponse;
+import com.ry.backend.security.JwtUtils;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;

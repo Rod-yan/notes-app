@@ -1,12 +1,12 @@
-package com.ensolvers.backend.controller;
+package com.ry.backend.controller;
 
-import com.ensolvers.backend.dto.NoteRequest;
-import com.ensolvers.backend.dto.NoteResponse;
-import com.ensolvers.backend.model.User;
-import com.ensolvers.backend.repository.UserRepository;
-import com.ensolvers.backend.service.NoteService;
-import com.ensolvers.backend.service.CustomUserDetailsService;
-import com.ensolvers.backend.security.JwtUtils;
+import com.ry.backend.dto.NoteRequest;
+import com.ry.backend.dto.NoteResponse;
+import com.ry.backend.model.User;
+import com.ry.backend.repository.UserRepository;
+import com.ry.backend.service.NoteService;
+import com.ry.backend.service.CustomUserDetailsService;
+import com.ry.backend.security.JwtUtils;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

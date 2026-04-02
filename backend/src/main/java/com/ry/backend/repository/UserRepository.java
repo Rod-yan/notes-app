@@ -1,6 +1,6 @@
-package com.ensolvers.backend.repository;
+package com.ry.backend.repository;
 
-import com.ensolvers.backend.model.User;
+import com.ry.backend.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 

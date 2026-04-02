@@ -1,4 +1,4 @@
-package com.ensolvers.backend.security;
+package com.ry.backend.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

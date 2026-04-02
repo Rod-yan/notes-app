@@ -41,4 +41,3 @@ logs/
 .env
 .env.local
 .env.*.local
-application-test.properties

@@ -1,9 +1,9 @@
-package com.ensolvers.backend.service;
+package com.ry.backend.service;
 
-import com.ensolvers.backend.dto.CategoryResponse;
-import com.ensolvers.backend.model.Category;
-import com.ensolvers.backend.model.User;
-import com.ensolvers.backend.repository.CategoryRepository;
+import com.ry.backend.dto.CategoryResponse;
+import com.ry.backend.model.Category;
+import com.ry.backend.model.User;
+import com.ry.backend.repository.CategoryRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

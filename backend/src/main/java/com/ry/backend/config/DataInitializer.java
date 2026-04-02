@@ -1,7 +1,7 @@
-package com.ensolvers.backend.config;
+package com.ry.backend.config;
 
-import com.ensolvers.backend.model.User;
-import com.ensolvers.backend.repository.UserRepository;
+import com.ry.backend.model.User;
+import com.ry.backend.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;

@@ -1,4 +1,4 @@
-package com.ensolvers.backend.dto;
+package com.ry.backend.dto;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
