@@ -60,6 +60,17 @@ Press `Ctrl+C` to stop all services.
 - Username: `admin`
 - Password: `admin123`
 
+## Cloud Deployment
+
+- **Database**: [Neon.tech](https://neon.tech) (free PostgreSQL)
+- **Backend** and **Frontend**: [Render](https://render.com) (Web Services with Docker)
+
+## Live Demo
+
+- Frontend: https://notes-app-frontend-s6ph.onrender.com
+- Backend API: https://notes-app-qv04.onrender.com
+- Swagger UI: https://notes-app-qv04.onrender.com/swagger-ui.html
+
 ## Industry Practices
 
 - **Layered Architecture**: Clear separation of concerns (Controller, Service, Repository).
